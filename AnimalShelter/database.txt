@@ -1,0 +1,5 @@
+1,Coco,10,False,Medium,Dog,Bichon Freise,White);
+2,Freddy,1,True,Tall,Dog,Sheep Dog,Black);
+3,Snowy,3,False,Short,Cat,Persian,White);
+4,Misty,1,False,Small,Cat,Siberian,Grey);
+5,Joey,4,True,Tall,Dog,Husky,Grey and White); 

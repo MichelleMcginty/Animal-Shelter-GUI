@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	
+	-fx-background:#b6e7c9 ; 
+	-fx-font-family: "Segoe UI Semibold";
+	-fx-font-size: 1em;
+}
+
+.button {
+       -fx-effect: dropshadow( gaussian , white , 0,0,0,0);
+    -fx-font-family: "Segoe UI Semibold";
+}
+
+.label {
+	
+
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-color: #688D8F;
+    -fx-opacity: 0.6;
+	
+}
